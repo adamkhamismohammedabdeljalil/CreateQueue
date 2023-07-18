@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\bin\Debug\net6.0\CreateQueue.exe
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\bin\Debug\net6.0\CreateQueue.deps.json
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\bin\Debug\net6.0\CreateQueue.runtimeconfig.json
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\bin\Debug\net6.0\CreateQueue.dll
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\bin\Debug\net6.0\CreateQueue.pdb
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.dll
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\refint\CreateQueue.dll
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.pdb
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\CreateQueue.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\CreateQueue\CreateQueue\obj\Debug\net6.0\ref\CreateQueue.dll
